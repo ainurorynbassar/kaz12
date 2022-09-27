@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "kaz12",
+			"path": "."
+		},
+		{
+			"name": "test",
+			"path": "../test"
+		}
+	],
+	"settings": {}
+}
